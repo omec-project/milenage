@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/free5gc/milenage"
+	"github.com/omec-project/milenage"
 )
 
 type f1Test struct {

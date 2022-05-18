@@ -1,5 +1,3 @@
-module github.com/free5gc/milenage
+module github.com/omec-project/milenage
 
 go 1.14
-
-require github.com/stretchr/testify v1.7.0
